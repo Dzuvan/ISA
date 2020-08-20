@@ -10,7 +10,7 @@
     "test": "mocha --timeout 12000"
   },
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.2",
     "casl": "^1.1.0",
     "express": "^4.16.3",
